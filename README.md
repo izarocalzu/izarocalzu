@@ -4,7 +4,7 @@
 ---
 ### Proyectos desarrollados
 **Proyectos en C#**
-1. Gestión de bolígrafos
+1. [Gestión de bolígrafos](https://github.com/izarocalzu/ProyectoEspecialMartes)
 2. Almacén de lo que sea
 
 
