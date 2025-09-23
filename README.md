@@ -1,4 +1,13 @@
-## Hi there 👋
+# Proyectos
+## Desarrollo de Aplicaciones Multiplataforma
+### IES Alonso de Ercilla
+---
+### Proyectos desarrollados
+**Proyectos en C#**
+1. Gestión de bolígrafos
+2. Almacén de lo que sea
+
+
 
 <!--
 **izarocalzu/izarocalzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
