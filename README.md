@@ -17,7 +17,9 @@ Proyectos más relevantes desarrollados durante el ciclo formativo y personales.
 ### 💻 Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 | **ProyectoPrimeraEvaluacion** | Aplicación inicial desarrollada en el ciclo formativo, login/registro, creación de productos. | C#, .NET | [Repositorio](https://github.com/izarocalzu/ProyectoPrimeraEvaluacion) |
+
 | **Ercilla** |  | C#, Java | [Repositorio](https://github.com/izarocalzu/Ercilla) |
+
 | **Journaling** | Proyecto académico enfocado en el desarrollo de una aplicación de diario/registro de canciones. | C# | [Repositorio](https://github.com/izarocalzu/Journaling) |
 
 ### ☁️ Integración y ERP
