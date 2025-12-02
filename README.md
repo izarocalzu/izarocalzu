@@ -30,9 +30,13 @@ Proyectos más relevantes desarrollados durante el ciclo formativo y personales.
 
 ---
 
+## ✉️ Portafolio
+
+[Mi portafolio](https://github.com/izarocalzu/izarocalzu.github.io)
+
 ## ✉️ Contacto
 
-Puedes conectar conmigo a través de mi perfil de [LinkedIn]([https://www.linkedin.com/in/izarocalzu/]) o enviarme un correo electrónico a izarocalzu@gmail.com.
+Puedes conectar conmigo a través de mi perfil de [LinkedIn](https://www.linkedin.com/in/izarocalzu/) o enviarme un correo electrónico a izarocalzu@gmail.com.
 
 <!--
 **izarocalzu/izarocalzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
