@@ -32,7 +32,7 @@ Proyectos más relevantes desarrollados durante el ciclo formativo y personales.
 
 ## ✉️ Portafolio
 
-[Mi portafolio](https://github.com/izarocalzu/izarocalzu.github.io)
+[Mi portafolio]([https://github.com/izarocalzu/izarocalzu.github.io](https://izarocalzu.github.io/))
 
 ## ✉️ Contacto
 
